@@ -1,4 +1,5 @@
-import EventHandlerInterface from "../../@shared/event-handler.interface";
+
+import EventHandlerInterface from "../../../@shared/event/event-handler.interface";
 import CustomerCreatedEvent from "../customer-created.events";
 
 export default class SendConsoleLog2Handler
